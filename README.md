@@ -1,1 +1,1 @@
-# epileptic-seizure-detection-system-
+Epileptic Seizure Detection System 
